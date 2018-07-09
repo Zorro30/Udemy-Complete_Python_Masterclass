@@ -27,17 +27,14 @@
                         </a>
                     </li>
                 </ul>
-
             </div>
             </div>
-            
-        </nav>
+    </nav>
         <ul>
         {% for book in all_books %}
             <li><a href= "{% url 'books:detail' book.id %}"> {{book.name}} </a> </li>
         {% endfor %} 
-</ul>
-
+        </ul>
     </body>
 </html>
 
