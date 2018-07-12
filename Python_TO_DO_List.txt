@@ -1,3 +1,4 @@
+This was copied from a Quora answer.
 PYTHON BASICS: If you are completely new to python then its important to know the basic syntax. Here are a few basic concepts which you should be aware of:
 
 Variables, Strings and accepting user input.
